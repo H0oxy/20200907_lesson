@@ -18,7 +18,7 @@ print('Change operation: add(+), minus(-), multiplication(*), division(/)')
 operation = int(input('+,-.*,/.'))
 if operation == "+":
     print(a, operatiom, b, '=', c)
-    while:
+    else:
     print('Please enter a correct operation')
 if operation == "-":
     print(a, operatiom, b, '=', c)
