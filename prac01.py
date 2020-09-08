@@ -1,11 +1,11 @@
 import random
-'''
-print('Сложение двух чисел')
-num1 = 5
-num2 = 6
-sum = num1 + num2
-print(sum)
-'''
+
+#print('Сложение двух чисел')
+#num1 = 5
+#num2 = 6
+#sum = num1 + num2
+#print(sum)
+
 
 #print('Самогенерирующийся пример сложения')
 #a = random.randint(1, 99)
